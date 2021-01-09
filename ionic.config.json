@@ -1,0 +1,7 @@
+{
+  "name": "jalanbijakasn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
